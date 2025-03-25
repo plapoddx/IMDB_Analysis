@@ -59,7 +59,7 @@ This project highlights the ability to:
 
 ## Author
 Hao Le  
-[LinkedIn](https://linkedin.com/haonle) | haole7124@gmail.com
+[LinkedIn](https://linkedin.com/in/haonle) | haole7124@gmail.com
 
 ---
 
