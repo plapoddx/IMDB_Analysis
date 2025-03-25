@@ -63,4 +63,4 @@ Hao Le
 
 ---
 
-**Note:** This project was completed as part of an academic assignment for the Data Analytics program at Baruch College.
+**Note:** This project was completed as part of an academic assignment for the Big Data Technologies course at Baruch College.
