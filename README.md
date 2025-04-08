@@ -55,7 +55,7 @@ This project highlights the ability to:
 - Create data visualizations for storytelling and communication.
 
 ## Status
-✅**Completed** — Final analysis and formatting are currently being completed before the submission deadline.
+✅**Completed** — Final analysis and formatting are completed.
 
 ## Author
 Hao Le  
